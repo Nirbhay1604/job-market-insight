@@ -129,14 +129,14 @@ Rate Limiting: 1.5-second delay between requests to respect We Work Remotely's s
 HTML Changes: If WWR updates their layout, update CSS selectors in scraper.py
 Educational Use: Check robots.txt and Terms of Service before scraping
 
-🤝 Contributing
+🤝 Contributing:
 Fork the repository
 Create a feature branch (git checkout -b feature/amazing-feature)
 Commit changes (git commit -m 'Add amazing feature')
 Push to branch (git push origin feature/amazing-feature)
 Open a Pull Request
 
-🙏 Acknowledgments
+🙏 Acknowledgments:
 We Work Remotely for job listings
 Built for the job-seeking developer community
 
